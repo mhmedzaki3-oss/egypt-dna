@@ -1,0 +1,13 @@
+{
+  "name": "EGYPT DNA — Mohamed Zaki Ahmed",
+  "short_name": "EGYPT DNA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101820",
+  "theme_color": "#101820",
+  "lang": "ar",
+  "dir": "auto",
+  "icons": [
+    {"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
